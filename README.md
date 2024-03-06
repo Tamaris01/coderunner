@@ -1,6 +1,6 @@
-## 🚀 Project Overview
+# 🚀 Project Overview
 
-## 🚀 Mentee Info
+## ℹ️ Mentee Info
 
 - **Name**: Tamaris Roulina Silitonga
 - **Program**: IBM Advance AI
